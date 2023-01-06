@@ -7,3 +7,7 @@ Ackley, Michalewiz, Rosenbrock, Sphere, Zakharov are being used as benchmark fun
 
 ![Sphere](https://www.sfu.ca/~ssurjano/spheref.png)
 
+## Demonstration 
+Using CEM (2 dimensions) to find the optima of the sphere function
+
+![Sphere_CEM](https://github.com/HuyRand/GA-Implementation/blob/master/gif/Sphere_DE_2.gif)
